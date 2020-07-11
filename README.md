@@ -37,6 +37,7 @@ https://creativecommons.org/licenses/by/4.0/</h5>
     <li>Server controlled staff team and ban lists</li>
     <li>Server settings and saved settings</li>
     <li>Donator settings are now saved</li>
+    <li>Took advantage of PlayerProxy, PlayerInfo and Interactors</li>
   </ul>
   <li>Changed Announcer voiceactor to lines recorded by @Big Bill Hell's</li>
   <li>Ghosts now show when the round ends</li>
@@ -45,5 +46,4 @@ https://creativecommons.org/licenses/by/4.0/</h5>
   <li>Added Prisoner Skins</li>
   <li>Breakables cooldown is on the Screwdriver now, not the Breakable</li>
   <li>Cleaned up some Assets and utilized UE4's Parenting System</li>
-  <li>Implemented new PlayerProxy, PlayerInfo and Interactors</li>
 </ul>
