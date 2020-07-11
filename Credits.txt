@@ -1,0 +1,37 @@
+Prisonbreak by Yoshey for Pavlov VR
+Version 2.0 - 2020
+Source Code provided by Mottflyer and his Trouble in Terrorist Town Module version 1.1
+
+-
+
+All gamemode logic, art assets, models and sound assets are ultimately owned by Mottflyer. Modified parts are owned by Yoshey.
+
+Some sound assets are from Valve's CounterStrike: Source and Half Life 2
+Jaildoor open sound in the template is owned by Netflix from the show "Orange is the new Black"
+Some selected assets (like the screwdriver and the ID Card) are not owned by me.
+Screwdriver: https://sketchfab.com/3d-models/screwdriver-29093a5bb357452388af63d7d535423e
+ID Card: https://sketchfab.com/3d-models/keycard-a0033bf027364417a7777d98d03980e1
+Ghost: https://skfb.ly/69EOV
+
+
+
+Special thanks to everyone that helped me test and develope the Gamemode including:
+Voice Recordings:
+Big Bill Hell
+
+Playtesters:
+Simon (S. Jorgensen)
+Shoot me n u Gay
+
+Logic assistance:
+Mark Dey
+Mottflyer
+
+Prisonbreak Staff Team
+
+Slozim for helping me learn the foundations of Pavlov Modding
+
+And of course all the Donators on Patreon that help me pay for some coffee while making this mod!
+
+
+Enjoy!
