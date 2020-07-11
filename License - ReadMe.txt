@@ -23,11 +23,10 @@ http://bit.do/BAJAIL
 
 (Releasing a complete Jailbreak map makes you eligible for the "Map Maker" tag and to receive a category dedicated for your map, but is not guaranteed.)
 
-You MUST NOT remove or change any of the watermarks (e.g. "Prisonbreak By Yoshey; Source Code By Mottflyer") inside the Prisonbreak Gamemode itself AND they MUST be fully visible.
+You MAY NOT remove or change any of the watermarks (e.g. "Prisonbreak By Yoshey; Source Code By Mottflyer") inside the Prisonbreak Gamemode itself AND they MUST be fully visible.
 
-You MUST add the DonatorLogic into your Map
-
-You MAY NOT Modify any Donator Features
+You MAY NOT remove or modify the Donator Module in any way that disadvantages Yoshey's Patreons.
+(You may add content or your own Donators, but new features must be accessible for Yoshey's Patreons too.)
 
 -
 
