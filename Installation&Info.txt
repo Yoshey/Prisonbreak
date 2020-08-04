@@ -49,6 +49,8 @@ MAKE SURE TO MAKE A BACKUP BEFORE DOING THIS!
 5. Go to the new project
 4. Proceed with Instruction 2. from "04. Updating PRISONBREAK"
 
+(NOTE: If you encounter errors, you might have to copy and paste the ENTIRE new Project to the old Project folder and override everything)
+
 __________________________________________________________
 ------------------------Extra------------------------
 
