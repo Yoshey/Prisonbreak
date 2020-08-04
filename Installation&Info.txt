@@ -42,7 +42,12 @@ MAKE SURE TO MAKE A BACKUP BEFORE DOING THIS!
 
 1. Open your old Project and create a Folder called "Prisonbreak"
 2. Move all Prisonbreak related Folders (Gamemode and Template) into the "Prisonbreak" Folder.
-3. Proceed with Instructions from "04. Updating PRISONBREAK"
+3. Right click on the Content folder in ue4 and press "Fix up Redirectories"
+4. Close UE4
+5. Delete the "Prisonbreak Folder" from your old project
+4. Copy and Paste the "Plugins" Folder within your windows explorer from the new project to your old project
+5. Go to the new project
+4. Proceed with Instruction 2. from "04. Updating PRISONBREAK"
 
 __________________________________________________________
 ------------------------Extra------------------------
