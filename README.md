@@ -1,5 +1,5 @@
 <h1>Prisonbreak Gamemode (PB) by Yoshey for Pavlov VR</h1>
-<h3>Version 2.0 - 2020</h3>
+<h3>Version 2.1 - 2020</h3>
 <br>
 All gamemode logic, art assets, models and sound assets are ultimately owned by Yoshey.<br>
 Exceptions:
@@ -26,6 +26,23 @@ https://creativecommons.org/licenses/by/4.0/</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>2.1</b>
+Note: When Updating, I recommend first renaming the old paths to the new ones, then following the update instructions to preserve most of your map's logic that works with Prisonbreak Logic from breaking
+<br>
+<br>
+<ul>
+  <li>Updated to the newest AMM Module version</li>
+  <li>Changed file paths to shorten overall file lengths</li>
+  <ul> 
+    <li>Content\DeveloperMode -> Plugins\Prisonbreak\DeveloperMode</li>
+    <li>Content\Prisonbreak\AdvancedMovement -> Content\AdvancedMovement</li>
+    <li>Content\Prisonbreak\AdvancedMovementExamples -> Content\AdvancedMovementExamples</li>
+    <li>Content\Prisonbreak\PrisonbreakGamemode -> Content\PB</li>
+    <li>Content\Prisonbreak\PrisonbreakTemplates -> Content\PBTemplates</li>
+    <li>PB\Items\Admin\Teleport_Destinations -> PB\Spawns\Admin\Teleport_Destinations</li>
+  </ul>
+  <li>Renamed/shortened many donator asset paths and names</li>
+</ul>
 <b>2.0</b>
 <ul>
   <li>Added Advanced Movement Module (Climbing and BHopping)</li>
