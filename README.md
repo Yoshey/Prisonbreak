@@ -1,5 +1,6 @@
 <h1>Prisonbreak Gamemode (PB) by Yoshey for Pavlov VR</h1>
 <h3>Version 2.1 - 2020</h3>
+<h2>Note: This project is not being worked on actively anymore</h2>
 <br>
 All gamemode logic, art assets, models and sound assets are ultimately owned by Yoshey.<br>
 Exceptions:
