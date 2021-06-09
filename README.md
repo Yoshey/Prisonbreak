@@ -1,5 +1,5 @@
 <h1>Prisonbreak Gamemode (PB) by Yoshey for Pavlov VR</h1>
-<h3>Version 2.1 - 2020</h3>
+<h3>Version 2.1c - 2020</h3>
 <h2>Note: This project is not being worked on actively anymore</h2>
 <br>
 All gamemode logic, art assets, models and sound assets are ultimately owned by Yoshey.<br>
@@ -27,6 +27,12 @@ https://creativecommons.org/licenses/by/4.0/</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>2.1c</b>
+<ul>
+  <li>Fixed Scoreboards disappearing during games</li>
+  <li>They now appear nearly instantaneously after spawning</li>
+  <li>Fixed the example cardscanner mesh</li>
+</ul>
 <b>2.1</b>
 Note: When Updating, I recommend first renaming the old paths to the new ones, then following the update instructions to preserve most of your map's logic that works with Prisonbreak Logic from breaking
 <br>
