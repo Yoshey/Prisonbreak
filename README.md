@@ -31,6 +31,7 @@ https://creativecommons.org/licenses/by/4.0/</h5>
 <ul>
   <li>Updated to AMMv2</li>
   <li>Renamed "Prisonbreak_Templates" to "Prisonbreak_Examples"</li>
+  <li>Updated the Installation File. You now need to add the Pavlov ModKit Tools manually</li>
 </ul>
 <b>2.1c</b>
 <ul>
