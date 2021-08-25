@@ -1,6 +1,6 @@
 <h1>Prisonbreak Gamemode (PB) by Yoshey for Pavlov VR</h1>
-<h3>Version 2.1c - 2021</h3>
-<h2>Note: This project is not being worked on actively anymore</h2>
+<h3>Version 2.2 - 2021</h3>
+<h2>Note: Due to my personal life such as University, I cannot always work on this Project</h2>
 <br>
 All gamemode logic, art assets, models and sound assets are ultimately owned by Yoshey.<br>
 Exceptions:
@@ -27,6 +27,11 @@ https://creativecommons.org/licenses/by/4.0/</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>2.2</b>
+<ul>
+  <li>Updated to AMMv2</li>
+  <li>Renamed "Prisonbreak_Templates" to "Prisonbreak_Examples"</li>
+</ul>
 <b>2.1c</b>
 <ul>
   <li>Fixed Scoreboards disappearing during games</li>
