@@ -2,6 +2,10 @@
 <h3>Version 2.2 - 2021</h3>
 <h2>Note: Due to my personal life such as University, I cannot always work on this Project</h2>
 <br>
+What is Prisonbreak?<br>
+Prisonbreak is a VR recreation of the gamemode "Jailbreak" from Counter Strike: Source. A detailed explanation of the gamemode can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=147271791 (Note: In Prisonbreak, terrorists are called prisoners and counter-terrorists are called guards)
+<br>
+<br>
 All gamemode logic, art assets, models and sound assets are ultimately owned by Yoshey.<br>
 Exceptions:
 <ul>
