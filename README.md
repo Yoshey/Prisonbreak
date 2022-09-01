@@ -1,5 +1,5 @@
 <h1>Prisonbreak Gamemode (PB) by Yoshey for Pavlov VR</h1>
-<h3>Version 2.2 - 2021</h3>
+<h3>Version 2.3 - 2021</h3>
 <h2>Note: Due to my personal life such as University, I cannot always work on this Project</h2>
 <br>
 What is Prisonbreak?<br>
